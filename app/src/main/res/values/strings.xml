@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Scripture Reference</string>
+    <string name="bookLabelString">Book</string>
+    <string name="buttonShareLabelString">Share</string>
+</resources>
